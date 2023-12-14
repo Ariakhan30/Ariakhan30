@@ -10,6 +10,6 @@
 - 👯 me gustaria colaborar con cualquier proyecto al que pueda aportar algo de mi conocimiento
 - 🤔 busco ayuda o consejo de quien haya trabajado con Reflex y python
 - 💬 preguntame lo que quieras
-- 📫 contactame por aqui o por mi e-mail cyphus247@gmai.com
+- 📫 contactame por aqui o por mi e-mail cyphus247@gmail.com
 
 
